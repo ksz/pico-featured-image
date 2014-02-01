@@ -5,7 +5,7 @@ This plugin enables the use of the Featured Image on the content of the Pico.
 
 ## Installation
 
-`pico_custom_post_preview.php` in `pico/plugins`;
+`pico_featured_image.php` in `pico/plugins`;
 
 ## Basic usage
 
